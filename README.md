@@ -1,4 +1,4 @@
-- **Projects**
+# Projects
   - `Autocompletion`
   - `CAN Protocol`
   - `DSP`
