@@ -1,0 +1,11 @@
+Dependencies for Project 'LPC214x_HC-SR04_Interfacing', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x63B60DD2)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I E:\ARM\RV31\INC-I E:\ARM\CMSIS\Include-I E:\ARM\Inc\Philips--list .\listings\startup.lst --xref -o ..\..\source\ccode\hrx\test\startup.o --depend ..\..\source\ccode\hrx\test\startup.d)
+F (.\lib_funcs.c)(0x64BC25D9)(--c99 -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-I E:\ARM\RV31\INC-I E:\ARM\CMSIS\Include-I E:\ARM\Inc\Philips-o ..\..\source\ccode\hrx\test\lib_funcs.o --omf_browse ..\..\source\ccode\hrx\test\lib_funcs.crf --depend ..\..\source\ccode\hrx\test\lib_funcs.d)
+I (E:\ARM\Inc\Philips\lpc214x.h)(0x559CFE30)
+I (E:\ARM\ARMCC\include\stdio.h)(0x64665C95)
+I (lib_funcs.h)(0x63B98130)
+F (.\lib_funcs.h)(0x63B98130)()
+F (.\main.c)(0x64BDEEF0)(--c99 -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-I E:\ARM\RV31\INC-I E:\ARM\CMSIS\Include-I E:\ARM\Inc\Philips-o ..\..\source\ccode\hrx\test\main.o --omf_browse ..\..\source\ccode\hrx\test\main.crf --depend ..\..\source\ccode\hrx\test\main.d)
+I (E:\ARM\Inc\Philips\lpc214x.h)(0x559CFE30)
+I (E:\ARM\ARMCC\include\stdio.h)(0x64665C95)
+I (lib_funcs.h)(0x63B98130)
